@@ -103,11 +103,8 @@ page-mathjax: false
 
 # Friends 友情链接
 friends: [
-    {
+    # {
     #     title: "Su",
     #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    }
+    # }
 ]
