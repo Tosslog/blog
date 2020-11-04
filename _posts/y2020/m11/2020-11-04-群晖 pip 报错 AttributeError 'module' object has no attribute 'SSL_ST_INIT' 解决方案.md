@@ -1,7 +1,7 @@
 ---
 layout:     post 
 title:      "群晖 pip 报错 AttributeError 'module' object has no attribute 'SSL_ST_INIT' 解决方案"  #主标题
-subtitle:   "github pages + jekyll 开篇"  #副标题
+subtitle:   ""  #副标题
 author:     "tosslog" 
 header-img: "img/post-bg-miui6.jpg" #文章图片
 #header-style: text #无图
