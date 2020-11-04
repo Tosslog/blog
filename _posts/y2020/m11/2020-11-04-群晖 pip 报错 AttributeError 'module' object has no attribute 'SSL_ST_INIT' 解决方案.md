@@ -17,7 +17,7 @@ tags:
 > AttributeError 'module' object has no attribute 'SSL_ST_INIT'
 
 
-![img](/img/post-img/2020/11/群晖 pip 报错 AttributeError 'module' object has no attribute 'SSL_ST_INIT' 解决方案/1171771448.jpg)
+![img](/img/post-img/y2020/m11/群晖 pip 报错 AttributeError 'module' object has no attribute 'SSL_ST_INIT' 解决方案/1171771448.jpg)
 
 ## 解决方案
 
@@ -43,4 +43,4 @@ rm -rf /usr/lib/python2.7/site-packages/pyOpenSSL-0.15.1.egg-info
 pip install pyopenssl
 ```
 ### 回到群晖套件中心会提示python Module套件异常点击修复即可
-![img](/img/post-img/2020/11/群晖 pip 报错 AttributeError 'module' object has no attribute 'SSL_ST_INIT' 解决方案/193783388.jpg)
+![img](/img/post-img/y2020/m11/群晖 pip 报错 AttributeError 'module' object has no attribute 'SSL_ST_INIT' 解决方案/193783388.jpg)
