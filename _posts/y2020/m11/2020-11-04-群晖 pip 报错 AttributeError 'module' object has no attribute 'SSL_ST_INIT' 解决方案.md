@@ -13,5 +13,34 @@ tags:
     - pip
 ---
 
-## 错误
-[](../img/post-img/2020/11/群晖 pip 报错 AttributeError 'module' object has no attribute 'SSL_ST_INIT' 解决方案/193783388.jpg)
+## 呈现的错误 
+> AttributeError 'module' object has no attribute 'SSL_ST_INIT'
+
+
+![img](/img/post-img/2020/11/群晖 pip 报错 AttributeError 'module' object has no attribute 'SSL_ST_INIT' 解决方案/1171771448.jpg)
+
+## 解决方案
+
+### 删除OpenSSL
+
+```
+rm -rf /usr/lib/python2.7/site-packages/OpenSSL
+rm -rf /usr/lib/python2.7/site-packages/pyOpenSSL-0.15.1.egg-info
+```
+
+### 下面安装OpenSSL时可能会出现这个错误
+> ImportError: cannot import name 'SourceDistribution'
+
+- 解决办法:手动升级pip
+
+```
+# cd tmp
+# curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+# python get-pip.py
+```
+- 重新安装OpenSSL
+```
+pip install pyopenssl
+```
+### 回到群晖套件中心会提示python Module套件异常点击修复即可
+![img](/img/post-img/2020/11/群晖 pip 报错 AttributeError 'module' object has no attribute 'SSL_ST_INIT' 解决方案/193783388.jpg)
