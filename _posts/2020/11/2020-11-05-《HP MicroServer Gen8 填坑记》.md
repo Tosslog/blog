@@ -30,9 +30,9 @@ tags:
 
 [《HP MicroServer Gen8 填坑记》~ 开机风扇不转或者转动后停止转动](/blog/2020/11/05/HP-MicroServer-Gen8-填坑记-~-开机风扇不转或者转动后停止转动/)
 
-[《HP MicroServer Gen8 填坑记》~ Bios每次重启都被清空](/blog/2020/11/05/《HP MicroServer Gen8 填坑记》~-Bios每次重启都被清空)
+[《HP MicroServer Gen8 填坑记》~ Bios每次重启都被清空](/blog/2020/11/05/HP-MicroServer-Gen8-填坑记-~-Bios每次重启都被清空)
 
-[《HP MicroServer Gen8 填坑记》~ Bios初始化](/blog/2020/11/05/《HP MicroServer Gen8 填坑记》~-Bios初始化)
+[《HP MicroServer Gen8 填坑记》~ Bios初始化](/blog/2020/11/05/HP-MicroServer-Gen8-填坑记-~-Bios初始化)
 
 [《HP MicroServer Gen8 填坑记》~ 主板放电](/blog/2020/11/05/HP-MicroServer-Gen8-填坑记-~-主板放电/)
 
