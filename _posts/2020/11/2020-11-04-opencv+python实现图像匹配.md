@@ -11,6 +11,7 @@ tags:
     - python
     - 图像分析
 ---
+> ***博客使用的 github pages 对于大陆访问不太友好，如遇到内容缺失或是无法显示图片等问题，请科学访问！***
 
 [文章摘自:https://blog.csdn.net/zhuisui_woxin/article/details/84400439](https://blog.csdn.net/zhuisui_woxin/article/details/84400439)
 

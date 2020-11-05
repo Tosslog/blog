@@ -13,6 +13,7 @@ tags:
     - usp
     - python
 ---
+> ***博客使用的 github pages 对于大陆访问不太友好，如遇到内容缺失或是无法显示图片等问题，请科学访问！***
 
 
 > 使用python 与 apc ups 通信

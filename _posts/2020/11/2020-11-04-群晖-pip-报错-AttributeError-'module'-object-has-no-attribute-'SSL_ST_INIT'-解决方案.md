@@ -12,6 +12,7 @@ tags:
     - synology
     - pip
 ---
+> ***博客使用的 github pages 对于大陆访问不太友好，如遇到内容缺失或是无法显示图片等问题，请科学访问！***
 
 ## 呈现的错误 
 > AttributeError 'module' object has no attribute 'SSL_ST_INIT'

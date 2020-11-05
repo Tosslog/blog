@@ -11,6 +11,8 @@ tags:
     - centos
     - docker
 ---
+> ***博客使用的 github pages 对于大陆访问不太友好，如遇到内容缺失或是无法显示图片等问题，请科学访问！***
+
 ## 方法一
 
 当你运行 systemctl start xxxx 的时候发现提示 docker Failed to get D-Bus connection

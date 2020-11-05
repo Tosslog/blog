@@ -12,6 +12,7 @@ tags:
     - yum
     - nginx
 ---
+> ***博客使用的 github pages 对于大陆访问不太友好，如遇到内容缺失或是无法显示图片等问题，请科学访问！***
 
 > centos7系统库中默认是没有nginx的rpm包的，所以我们自己需要先更新下rpm依赖库
 ## 1、使用yum安装nginx需要包括Nginx的库，安装Nginx的库
