@@ -38,9 +38,11 @@ rm -rf /usr/lib/python2.7/site-packages/pyOpenSSL-0.15.1.egg-info
 # curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 # python get-pip.py
 ```
+
 - 重新安装OpenSSL
 ```
 pip install pyopenssl
 ```
+
 - 回到群晖套件中心会提示python Module套件异常点击修复即可
 ![img](/blog/img/post-img/2020/11/04/193783388.jpg)
