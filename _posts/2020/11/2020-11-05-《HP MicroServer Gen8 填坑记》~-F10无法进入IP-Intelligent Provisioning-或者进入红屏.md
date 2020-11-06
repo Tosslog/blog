@@ -36,7 +36,7 @@ IP全称Intelligent Provisioning
 http://pan.baidu.com/s/1eQtlrSA
 密码: r8we 
 中HP Intelligent Provisioning Recovery Media文件夹下载，是iso的镜像文件。网盘的版本是1.62，能用，不过版本有些老，最新版本大家可以到官网去下载。
-官网下载地址:[](https://support.hpe.com/hpesc/public/km/product/5390291/Product#t=All&sort=relevancy&f:@kmswsoftwaretypekey=[swt8000194])
+官网下载地址:[https://support.hpe.com/hpesc/public/km/product/5390291/Product#t=All&sort=relevancy&f:@kmswsoftwaretypekey=[swt8000194]](https://support.hpe.com/hpesc/public/km/product/5390291/Product#t=All&sort=relevancy&f:@kmswsoftwaretypekey=[swt8000194])
 
 ![img](/blog/img/post-img/2020/11/05/3011417171.jpg)
 

@@ -17,6 +17,10 @@ tags:
 
 ***由于我的 北京土著博客 更名 tosslog 并且域名与数据从 blog.inas.wiki 迁移至 github pages，因此顺便将《GEN8的81难日记本》改名为 《HP MicroServer Gen8 填坑记》~ XXX***
 
+## 2020年11月6日更新
+HPIP、SPP、ILO4、Bios 在20年相继更新，可以到官网下载
+官网下载地址：[https://support.hpe.com/hpesc/public/km/product/5390291/Product#t=All&sort=relevancy&f:@kmswsoftwaretypekey=[swt8000194]](https://support.hpe.com/hpesc/public/km/product/5390291/Product#t=All&sort=relevancy&f:@kmswsoftwaretypekey=[swt8000194])
+
 ## 汇总
 ### 热门问题
 [《HP MicroServer Gen8 填坑记》~ 风扇转速产生的噪音解决方案](/blog/2020/11/05/HP-MicroServer-Gen8-填坑记-~-风扇转速产生的噪音解决方案/)
