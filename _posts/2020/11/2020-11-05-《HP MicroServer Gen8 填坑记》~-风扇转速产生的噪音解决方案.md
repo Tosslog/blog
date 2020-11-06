@@ -36,11 +36,11 @@ tags:
 > ILO降速包（所谓的破解版）+刷bios
 当然我的解决方案也是有一部分牺牲，但最起码不花一分钱就能搞定而且运转一切正常，非常稳定。
 牺牲的就是不能使用ILO4 2.55版本了要用低版本 外观很老旧的那种，其实也无所谓了，又不是经常进去！能解决问题是关键。
-有兴趣的可以去找一找
-iLO4_1.32_MicroServer.bin
-iLO1-5 的历史版本-外站2020-11-05验证可以下载访问[https://pingtool.org/latest-hp-ilo-firmwares/](https://pingtool.org/latest-hp-ilo-firmwares/)
-国内chiphell论坛的大佬帖子内附一些下载：https://www.chiphell.com/thread-1196090-1-1.html
+官网各种固件下载地址:[](https://support.hpe.com/hpesc/public/km/product/5390291/Product#t=All&sort=relevancy&f:@kmswsoftwaretypekey=[swt8000194])
+
+ilo4_1.32_hacked.bin(降速包)官网没有
 BIOS版本：2015.11.02
+
 这两每刷一个都会让转速下降一些 我是直接两个全刷直接降到最低。 转速下来了噪音也就没了 10%转速一样稳稳压住CPU而且听不见声。。。。
 
 ![img](/blog/img/post-img/2020/11/05/531591519.png)

@@ -35,7 +35,8 @@ IP全称Intelligent Provisioning
 重装步骤就像上图所述一样。IP的光盘和用户指南可以到这个链接: 
 http://pan.baidu.com/s/1eQtlrSA
 密码: r8we 
-中HP Intelligent Provisioning Recovery Media文件夹下载，是iso的镜像文件。网盘的版本是1.62，能用，不过版本有些老，最新版本大家可以到官网去下载。截止到发帖时间HP官网最新的IP版本是1.63，如下图所示。
+中HP Intelligent Provisioning Recovery Media文件夹下载，是iso的镜像文件。网盘的版本是1.62，能用，不过版本有些老，最新版本大家可以到官网去下载。
+官网下载地址:[](https://support.hpe.com/hpesc/public/km/product/5390291/Product#t=All&sort=relevancy&f:@kmswsoftwaretypekey=[swt8000194])
 
 ![img](/blog/img/post-img/2020/11/05/3011417171.jpg)
 
