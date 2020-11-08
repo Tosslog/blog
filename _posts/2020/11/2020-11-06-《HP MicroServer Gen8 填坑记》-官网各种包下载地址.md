@@ -1,6 +1,6 @@
 ---
 layout:     post 
-title:      "《HP MicroServer Gen8 填坑记》"  #主标题
+title:      "《HP MicroServer Gen8 填坑记》-官网各种包下载地址"  #主标题
 subtitle:   ""  #副标题
 author:     "tosslog" 
 header-img: "img/post-bg-miui6.jpg" #文章图片
