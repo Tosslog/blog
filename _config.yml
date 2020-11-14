@@ -6,7 +6,7 @@ email: tosslog@tosslog.com
 description: ""
 keyword: "折腾, 日志, 折腾日志, 折腾博客, 博客, @tosslog, Tosslog Blog, 个人网站, 互联网, Web, plex, python"
 url: ""              # your host, for absolute URL
-baseurl: "/blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
