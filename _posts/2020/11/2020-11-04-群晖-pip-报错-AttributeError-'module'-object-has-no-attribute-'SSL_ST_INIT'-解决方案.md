@@ -18,7 +18,7 @@ tags:
 > AttributeError 'module' object has no attribute 'SSL_ST_INIT'
 
 
-![img](/blog/img/post-img/2020/11/04/1171771448.jpg)
+![img](/img/post-img/2020/11/04/1171771448.jpg)
 
 ## 解决方案
 
@@ -46,4 +46,4 @@ pip install pyopenssl
 ```
 
 - 回到群晖套件中心会提示python Module套件异常点击修复即可
-![img](/blog/img/post-img/2020/11/04/193783388.jpg)
+![img](/img/post-img/2020/11/04/193783388.jpg)
